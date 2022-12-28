@@ -1,6 +1,5 @@
 package SinglylinkedLists;
 
-import static SinglylinkedLists.singlyLInkedListImplementation.printListRecursive;
 
 public class deleteNode {
     public static doublyLinkedList.Node deleteHead(doublyLinkedList.Node head){
